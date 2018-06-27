@@ -1,1 +1,14 @@
+[packages]
+flask = "*"
+sqlalchemy = "*"
+random = "*"
+string = "*"
+json = "*"
+httplib2 = "*"
+requests = "*"
+database_setup = "*"
+oauth2client = "*"
 
+
+[requires]
+python_version = "3.6"
